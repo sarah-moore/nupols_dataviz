@@ -1,6 +1,6 @@
 # Interpreting & Visualizing Political Data (AKA Sloppy Stats & Lousy Graphs)
 
-<p align=center> Instructor: <a href="emailto:sarahmoore2022@u.northwestern.edu">Sarah Moore</a>
+<p align=center> Instructor: <a href="mailto:sarahmoore2022@u.northwestern.edu">Sarah Moore</a>
   
 <p align=center> A POLI_SCI 490 Special Topics Course 
 
