@@ -1,11 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+title: Interpreting & Visualizing Political Data 
+description: AKA Sloppy Stats & Lousy Graphs 
+baseurl: "/docs" # the subpath of the site
+url: "https://sarah-moore.github.io/nupols_dataviz/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -20,25 +19,14 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: sarahmoore2022@u.northwestern.edu
+      link: sarahmoore2022@u.northwestern.edu
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://twitter.com/sarahmoreorless
+      username: "@sarahmoreorless"
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/sarah-moore
 
 # Build settings
 markdown: kramdown
