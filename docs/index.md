@@ -1,15 +1,15 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-pic.png
   alt: website picture
 ---
 
-<p>
+<c>
 Fall 2022, Tues & Thurs 11:00-12:20 
   
-  Kresge Centennial Hall 2-420 
-</p>
+<br> Kresge Centennial Hall 2-420 
+</c>
 
 <p>
 Instructor: <a href="mailto:sarahmoore2022@u.northwestern.edu"> Sarah Moore </a>
